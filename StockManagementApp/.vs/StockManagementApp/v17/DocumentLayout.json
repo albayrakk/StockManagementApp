@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|c:\\users\\al\u0130 bayrak\\source\\repos\\stockmanagementapp\\stockmanagementapp\\customerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\customerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\customerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\customerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\customerpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\customerpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\adminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\adminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\stockmanagementapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9805D5C-AD53-4303-B0F5-C53DCCCFEF09}|StockManagementApp\\StockManagementApp.csproj|solutionrelative:stockmanagementapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerPanel.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\CustomerPanel.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\CustomerPanel.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\CustomerPanel.cs",
+              "RelativeToolTip": "StockManagementApp\\CustomerPanel.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:16:43.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\CustomerManager.cs",
+              "RelativeToolTip": "StockManagementApp\\CustomerManager.cs",
+              "ViewState": "AgIAAAIAAAB8C1j4b1o2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:23:25.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Customer.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\Customer.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Customer.cs",
+              "RelativeToolTip": "StockManagementApp\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:33:43.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\AdminPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StockManagementApp\\AdminPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:36:24.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\CustomerPanel.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\CustomerPanel.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\CustomerPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StockManagementApp\\CustomerPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:11:56.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\AdminPanel.cs",
+              "RelativeToolTip": "StockManagementApp\\AdminPanel.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAewCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:45:36.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\DatabaseHelper.cs",
+              "RelativeToolTip": "StockManagementApp\\DatabaseHelper.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA/wCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:23:00.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Form1.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StockManagementApp\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:22:29.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Form1.Designer.cs",
+              "RelativeToolTip": "StockManagementApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:09:55.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\CustomerPanel.Designer.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\CustomerPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\CustomerPanel.Designer.cs",
+              "RelativeToolTip": "StockManagementApp\\CustomerPanel.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAjwJEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:47:11.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Form1.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Form1.cs",
+              "RelativeToolTip": "StockManagementApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:40:50.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\AdminPanel.Designer.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\AdminPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\AdminPanel.Designer.cs",
+              "RelativeToolTip": "StockManagementApp\\AdminPanel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:21:43.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Product.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\Product.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Product.cs",
+              "RelativeToolTip": "StockManagementApp\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:35:16.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Program.cs",
+              "RelativeToolTip": "StockManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:30:11.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Order.cs",
+              "RelativeDocumentMoniker": "StockManagementApp\\Order.cs",
+              "ToolTip": "C:\\Users\\AL\u0130 BAYRAK\\Source\\Repos\\StockManagementApp\\StockManagementApp\\Order.cs",
+              "RelativeToolTip": "StockManagementApp\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:36:20.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
